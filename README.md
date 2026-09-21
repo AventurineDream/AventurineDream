@@ -10,7 +10,7 @@ I'm an interdisciplinary artist moving into machine-learning research and softwa
 - TeacherVibe - a local-first repository reader and code-annotation tool for people directing coding agents, including non-coders. It turns human review notes into a structured, ready-to-paste agent prompt.
 - Simulation Query - an ongoing local research experiment about continuity, inference, and what an observed agent can infer about being observed.
 
-Portfolio: aventurinedream.art · X: @aventurinedre_m<!--
-**AventurineDream/AventurineDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portfolio: aventurinedream.art · X: @aventurinedre_m
+
 
 
